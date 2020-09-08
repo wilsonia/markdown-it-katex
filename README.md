@@ -1,5 +1,7 @@
 # markdown-it-katex
 
+Forked to update katex dependecy
+
 Add Math to your Markdown
 
 [![Build Status](https://travis-ci.org/waylonflinn/markdown-it-katex.svg?branch=master)](https://travis-ci.org/waylonflinn/markdown-it-katex)
